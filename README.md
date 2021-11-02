@@ -1,9 +1,9 @@
 # HouseControl
 Interface d'outils simples
 
-# Interface d'outils simple--Python
+# Interface d'outils simples--Python
 
---Envoie de mails
+--Envoi de mails
 
 --Lecteur de musique (suivant, précédent,volume)
 
