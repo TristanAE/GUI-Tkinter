@@ -1,5 +1,5 @@
 # HouseControl
-Interface d'outils simples
+Interface d'outils simples en Python
 
 # Interface d'outils simples--Python
 
