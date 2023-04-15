@@ -1,7 +1,7 @@
 # HouseControl
 Interface graphique d'outils simples en Python
 
-# Interface d'outils simples--Python
+# Interface d'outils simples Python
 
 --Envoi de mails
 
